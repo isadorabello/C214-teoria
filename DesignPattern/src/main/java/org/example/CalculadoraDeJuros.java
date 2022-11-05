@@ -3,7 +3,7 @@ package org.example;
 public class CalculadoraDeJuros {
     protected CalculaJuros calculaJuros;
 
-    public double calculaFrete(double valor) {
+    public double calculaJuros(double valor) {
         return calculaJuros.calculoDeJuros(valor);
     }
 
