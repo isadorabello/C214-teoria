@@ -37,6 +37,77 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="TestNG.TesteObserver.testeInscritos">
+    <configuration name="TesteObserver.testQuantMaiusculas" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatternObserver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteObserver" />
+      <option name="METHOD_NAME" value="testQuantMaiusculas" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteObserver.testQuantPares" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatternObserver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteObserver" />
+      <option name="METHOD_NAME" value="testQuantPares" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteObserver.testQuantTotal" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatternObserver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteObserver" />
+      <option name="METHOD_NAME" value="testQuantTotal" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteObserver.teste2Inscritos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatternObserver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteObserver" />
+      <option name="METHOD_NAME" value="teste2Inscritos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteObserver.testeInscritos" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatternObserver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TesteObserver" />
+      <option name="METHOD_NAME" value="testeInscritos" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TesteObserver.testeInscritos" />
+        <item itemvalue="TestNG.TesteObserver.teste2Inscritos" />
+        <item itemvalue="TestNG.TesteObserver.testQuantTotal" />
+        <item itemvalue="TestNG.TesteObserver.testQuantPares" />
+        <item itemvalue="TestNG.TesteObserver.testQuantMaiusculas" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
