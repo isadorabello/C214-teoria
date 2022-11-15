@@ -12,7 +12,11 @@ public class Observador  implements iObservador{
 
     @Override
     public void update(Observavel frase) {
-
+        System.out.println("Identificador: "+this.id);
+        System.out.println("A quantidade de palavras é " + frase.getQuantTotal());
+        System.out.println("Palavras pares: " + frase.getQuantPares());
+        System.out.println("Palavras com primeira letra maiuscula: " + frase.getQuantMaiusculas());
+        System.out.println("------------------------------------------------------------");
     }
 
 }
