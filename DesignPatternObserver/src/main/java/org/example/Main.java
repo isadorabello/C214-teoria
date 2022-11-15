@@ -27,5 +27,7 @@ public class Main {
         frase.removeObservador(o4);
 
         frase.setNovaFrase("Não se pode pisar duas vezes no mesmo rio");
+
+        frase.setNovaFrase("O nome do deus era Zeus, o nome do filho, Perseu");
     }
 }

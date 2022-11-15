@@ -37,15 +37,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.TesteObserver.testeInscritos">
-    <configuration name="TesteObserver.testQuantMaiusculas" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="DesignPatternObserver" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TesteObserver" />
-      <option name="METHOD_NAME" value="testQuantMaiusculas" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.TesteObserver.testeInscritos" />
         <item itemvalue="TestNG.TesteObserver.teste2Inscritos" />
         <item itemvalue="TestNG.TesteObserver.testQuantTotal" />
         <item itemvalue="TestNG.TesteObserver.testQuantPares" />
-        <item itemvalue="TestNG.TesteObserver.testQuantMaiusculas" />
       </list>
     </recent_temporary>
   </component>
